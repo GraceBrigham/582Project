@@ -3,7 +3,7 @@
 ### Abhika Mishra and Grace Brigham
 
 
-This is the code and image repository for our CSE582 (Ethics in AI) course project.
+This is the repository for our CSE582 (Ethics in AI) course project.
 
 ## Image Generation
 
